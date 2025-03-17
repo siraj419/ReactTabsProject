@@ -1,4 +1,4 @@
-import { data, DataShape } from "../db/data"
+import { data, DataShape } from "../db/data.ts"
 import Card from "./Card"
 
 const Courses = () => {

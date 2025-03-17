@@ -1,5 +1,5 @@
 import Card from "./Card"
-import {data, DataShape} from "../db/data";
+import {data, DataShape} from "../db/data.ts";
 
 const Home = () => {
   return (
